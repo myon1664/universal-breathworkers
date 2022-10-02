@@ -17,6 +17,7 @@ export default function Home() {
         <h4>Learn a simple and powerful breathing technique.</h4>
         <h4>Increase your physical, mental, emotional and spiritual health &amp; well-being.</h4>
         <p>Join us to learn and practice the <strong><a href="https://souldimension.org/joy-of-breathing/" target="_blank" >Joy of Breathing</a></strong>.</p>
+        <p>No previous experience required.</p>
         <h2><strong>EVERY WEDNESDAY</strong></h2>
         <h2><strong>WE BREATHE TOGETHER</strong></h2>
         <h2><strong>AND GENERATE A GLOBAL HEALING CURRENT</strong></h2>
