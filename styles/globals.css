@@ -27,7 +27,8 @@ code {
 }
 
 .container {
-
+  height: 100vh;
+  justify-content: center;
 }
 
 .responsive {
