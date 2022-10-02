@@ -18,11 +18,11 @@ Join us to learn and practice the <strong><a href="https://souldimension.org/joy
 
 ## What we are doing
 
-**EVERY WEDNESDAY
+<strong>EVERY WEDNESDAY</strong>
 
-WE BREATHE TOGETHER
+<strong>WE BREATHE TOGETHER</strong>
 
-AND GENERATE A GLOBAL HEALING CURRENT**
+<strong>AND GENERATE A GLOBAL HEALING CURRENT</strong>
 
 ## How to join
 
