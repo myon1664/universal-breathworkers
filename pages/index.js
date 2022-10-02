@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <center><h2><img src="https://souldimension.org/wp-content/uploads/2022/10/Universal-Breathworkers.jpg" alt="" width="1200" height="600" /></h2></center>
         <Header title="Welcome to the Universal Breathworkers!" />
       </main>
 
