@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <p><img src="https://souldimension.org/wp-content/uploads/2022/10/Universal-Breathworkers.jpg" alt="Universal Breathworkers" class="responsive" /></p>
+        <h1><img src="https://souldimension.org/wp-content/uploads/2022/10/Universal-Breathworkers.jpg" alt="Universal Breathworkers" class="responsive" /></h1>
         <Header title="Welcome to the Universal Breathworkers!" />
         <p><strong>Learn a simple and powerful breathing technique</strong> to increase your physical, mental, emotional and spiritual health &amp; well-being.
         Join us to learn and practice the <strong><a href="https://souldimension.org/joy-of-breathing/" target="_blank" >Joy of Breathing</a></strong>.</p>
